@@ -104,7 +104,7 @@ else:
 
 ## OUTPUT:
 
-
+<img width="640" height="390" alt="download" src="https://github.com/user-attachments/assets/c36d5408-0150-43ec-afa7-d8a0879c9492" />
 
 
 
